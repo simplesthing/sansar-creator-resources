@@ -1,0 +1,59 @@
+
+        <header role="banner" class="_header">
+            <nav role="navigation" class="_navbar">
+                <ul role="menubar" class="desktop-only _left">
+                    <li role="menuitem"><a href="https://www.sansar.com/" class="_logoLink"><img class="_logo" src="https://sansarweb-media-production.akamaized.net/web128x128Blue.png" alt="Home Link Logo"></a></li>
+                    <li role="menuitem"><a href="https://atlas.sansar.com">Atlas</a></li>
+                    <li role="menuitem"><a href="https://events.sansar.com">Events</a></li>
+                    <li role="menuitem"> <a href="https://store.sansar.com">Store</a></li>
+                    <li role="menuitem"><a href="https://www.sansar.com/download">Download</a></li>
+                    <li role="menuitem"><a href="https://help.sansar.com/hc/en-us/community/topics">Community</a></li>
+                    <li role="menuitem"><a href="https://help.sansar.com">Help</a></li>
+                </ul>
+                <ul role="menubar" class="mobile-only">
+                    <li role="menuitem">
+                    </li>
+                    <li role="menuitem"></li>
+                    <a href="https://www.sansar.com/" class="_logoLink"><img class="_logo" src="https://sansarweb-media-production.akamaized.net/web128x128Blue.png"><span class="visuallyHidden">home link</span></a>
+                </ul>
+                <ul role="menu" class="mobile-only _right">
+                    <li role="menuitem" style="margin-left: 4px!important">
+                        <button id="open-mobile-nav" class="_menuBtn _btn _btn-icon-only"><span class="_menuIcon _ion-android-menu"></span><span class="visuallyHidden">open full screen navigation</span></button>
+                    </li>
+                </ul>
+                <div id="mobile-nav" class="mobile-only _mobileNavWrapper">
+                    <div class="_mobileNav">
+                        <button id="close-mobile-nav" class="_closeMobileNav _btn _btn-icon-only"><span class="_closeIcon _ion-android-close"></span><span class="visuallyHidden">close full screen navigation</span></button>
+                        <ul role="menubar">
+                        <li role="menuitem"><a href="https://atlas.sansar.com"> <span>Atlas</span></a></li>
+                        <li role="menuitem"><a href="https://events.sansar.com"><span>Events</span></a></li>
+                        <li role="menuitem"><a href="https://store.sansar.com"><span>Store</span></a></li>
+                        <li><a href="https://www.sansar.com/download"><span>Download</span></a></li>
+                        <li role="menuitem"><a href="https://help.sansar.com/hc/en-us/community/topics"><span>Community</span></a></li>
+                        <li role="menuitem"><a href="https://help.sansar.com"><span>Help</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+<script>
+   $(document).ready(function(){
+     var openMobileNavButton = document.getElementById('open-mobile-nav')
+     openMobileNavButton.addEventListener('click', showMobileNav)
+   
+     function showMobileNav() {
+       var nav = document.getElementById('mobile-nav')
+       nav.classList.add('visibleMobileNav')
+     }
+   
+     var closeMobileNavButton = document.getElementById('close-mobile-nav')
+     closeMobileNavButton.addEventListener('click', hideMobileNav)
+   
+     function hideMobileNav() {
+       var nav = document.getElementById('mobile-nav')
+       nav.classList.remove('visibleMobileNav')
+     }
+   })
+</script>
+
+

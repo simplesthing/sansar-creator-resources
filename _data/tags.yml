@@ -1,0 +1,27 @@
+# Note:
+# If you are using the createtag script, don't leave an blank line at the end of this file.
+# In other words, the last line must be the last tag in the allowed-tags list.
+allowed-tags:
+  - 3ds_max
+  - blender
+  - collaboration
+  - digital_university
+  - dj
+  - event_hosting
+  - games
+  - getting_started
+  - github
+  - linden
+  - media_surface
+  - music
+  - news
+  - obs
+  - quaternions
+  - simple_scripts
+  - streaming
+  - sunstance_painter
+  - rigging
+  - troubleshooting
+  - vr
+  - youtube
+

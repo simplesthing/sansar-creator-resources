@@ -1,0 +1,46 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Jekyll Doc Theme
+  version: 6.0
+  folders:
+
+  - title: Animations
+    category: animations
+
+  - title: Audio
+    category: audio
+    
+  - title: Avatars
+    category: avatars
+
+  - title: Building
+    category: building
+
+  - title: Clothing & Accessories
+    category: clothing
+
+  - title: Events
+    category: events
+  
+  - title: Miscellaneous
+    category: misc
+
+  - title: News
+    category: news
+
+  - title: Quests
+    category: quests
+
+  - title: Scripting
+    category: scripting
+
+  - title: Store
+    category: store
+  
+  - title: User Profiles
+    category: user_profiles
+
+
+   
