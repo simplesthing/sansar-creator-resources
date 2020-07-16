@@ -3,7 +3,7 @@ title: How to Make Animations - Sansar
 summary: How to make animations with Blender, YouTube video by Medhue
 category: animations
 sidebar: sidebar
-tags: [ youtube, blender ]
+tags: [ youtube, blender, fullspectrum ]
 permalink: how-to-make-animations.html
 last_updated: October 14, 2019
 author: Medhue

@@ -3,7 +3,7 @@ title: FullSpectrum Avatar Creation Kit
 summary: Avatar Creation with Blender by Medhue and Bagnaria
 category: avatars
 sidebar: sidebar
-tags: [ youtube, blender ]
+tags: [ youtube, blender, fullspectrum ]
 permalink: fullspectrum-avatar-creation-kit.html
 last_updated: March 28, 2019
 author: Medhue

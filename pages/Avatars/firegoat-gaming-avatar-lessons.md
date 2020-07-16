@@ -3,7 +3,7 @@ title: Firegoat Gaming Avatar Lessons
 summary: How to make your own custom avatars 
 category: avatars
 sidebar: sidebar
-tags: [ youtube, rigging, digital_university ]
+tags: [ youtube, rigging, digital_university, firegoat_gaming ]
 permalink: firegoat-gaming-avatar-lessons.html
 last_updated: December 14, 2019
 author: Fire Goat 2

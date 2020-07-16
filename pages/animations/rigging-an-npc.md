@@ -3,7 +3,7 @@ title: Rigging an NPC for Sansar - 2.8 Blender
 summary: How to rig an NPC
 category: animations
 sidebar: sidebar
-tags: [ youtube, rigging ]
+tags: [ youtube, rigging, fullspectrum]
 permalink: rigging-an-npc.html
 last_updated: April 26, 2019
 author: Medhue
